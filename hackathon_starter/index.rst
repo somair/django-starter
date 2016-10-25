@@ -11,54 +11,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-Github
-======
-.. automodule:: github
-	:members:
-
-Instagram
-=========
-.. automodule:: instagram
-	:members:
-
-Steam
-=====
-.. automodule:: steam
-	:members:
-
-Tumblr
-======
-.. automodule:: tumblr
-	:members:
-
-Twilio
-======
-.. automodule:: twilioapi
-	:members:
-
-Twitter
-=======
-.. automodule:: twitter
-	:members:
-
-Scraper
-=======
-.. automodule:: scraper
-	:members:
-
-New York Times
-==============
-.. automodule:: nytimes
-	:members:
-
-Instagram
-=========
-.. automodule:: instagram
-	:members:
-
-
-
-
 Indices and tables
 ==================
 
